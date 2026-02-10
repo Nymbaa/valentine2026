@@ -270,3 +270,9 @@ h2 {
         display: none;
     }
 }
+
+/* Utility Classes */
+.rounded-3xl {
+    border-radius: 1.5rem;
+    /* 24px */
+}
